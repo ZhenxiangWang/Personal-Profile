@@ -403,8 +403,13 @@ a.btn:hover {
   color: #8a8a8a;
   margin-bottom: 15px;
 }
+.education-section .honor {
+  margin-bottom: 15px;
+}
 .education-section .desc {
   color: #666;
+  font-weight: 360;
+  font-size: 14px;
 }
 .skills-section .subtitle {
   font-size: 18px;
